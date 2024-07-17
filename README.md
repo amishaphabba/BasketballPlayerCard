@@ -1,5 +1,21 @@
-# BasketballPlayerCard
+# React Basketball Player Card Component
 
+This project implements a React component called BasketballPlayerCard that displays information about a basketball player, including their name, image, position, and statistics.
+
+## Installation
+
+Follow these steps after downloading the project to run the project locally:
+
+1. Navigate
+   cd .\basketball-assessment\
+
+2. Install Dependencies
+    npm install
+
+3. Run Project
+    npm run dev
+
+# BasketballPlayerCard
 Initial Interface
 ![Screenshot (55)](https://github.com/user-attachments/assets/5b5344f5-9c7d-4696-bc73-fd8409476799)
 
